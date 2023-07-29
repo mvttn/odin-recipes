@@ -17,8 +17,12 @@ h2 {
   text-align: center;
 }
 
+h1 {
+  font-size: 48px;
+}
+
 h3 {
-  color: #a96500;
+  color: #e78b00;
   text-decoration: underline;
   font-size: 26px;
   font-family: Copperplate, Arial, Helvetica, sans-serif;
@@ -42,5 +46,5 @@ li {
 }
 
 strong {
-  color: #f39200;
+  color: #e3a649;
 }
