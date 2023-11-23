@@ -14,6 +14,9 @@ h1 {
   font-family: Copperplate, Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
+  padding: 25px;
+  margin: 48px;
+  margin-bottom: 0px;
 }
 
 a {
