@@ -15,6 +15,10 @@ h2 {
   font-family: Copperplate, Arial, Helvetica, sans-serif;
   font-weight: bold;
   text-align: center;
+  padding: 10px;
+  margin: 24px;
+  border-top: 12px ridge #fbcf8b;
+  border-bottom: 12px ridge #fbcf8b;
 }
 
 h1 {
@@ -27,7 +31,9 @@ h3 {
   font-size: 26px;
   font-family: Copperplate, Arial, Helvetica, sans-serif;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
+  margin: 24px;
+  margin-right: 48px;
 }
 
 p {
