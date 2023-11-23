@@ -17,6 +17,7 @@ h1 {
   padding: 25px;
   margin: 48px;
   margin-bottom: 0px;
+  border: 5px ridge rgb(249, 210, 103);
 }
 
 a {
